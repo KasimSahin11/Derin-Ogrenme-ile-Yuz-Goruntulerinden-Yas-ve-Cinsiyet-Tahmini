@@ -1,4 +1,4 @@
-##Yüz Görüntülerinden Yaş ve Cinsiyet Tahmini##
+## Yüz Görüntülerinden Yaş ve Cinsiyet Tahmini ##
 
 Bu repo, yüz görüntülerinden yaş ve cinsiyet tahmini yapmak için derin öğrenme tekniklerini kullanan bir projeyi içermektedir. Projede üç farklı model kullanılmıştır: özelleştirilmiş bir CNN algoritması, transfer öğrenme ile eğitilmiş ResNet50 ve sıfırdan eğitilmiş ResNet50. Bu modeller UTK-Face veri seti kullanılarak eğitilmiş ve test edilmiştir. Projede yaş ve cinsiyet tahmini performansını artırmak için çeşitli teknikler uygulanmıştır.
 
